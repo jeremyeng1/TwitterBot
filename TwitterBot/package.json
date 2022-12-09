@@ -1,0 +1,27 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "this is my repo for midterm",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamsies99/MidtermACC.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "node"
+  ],
+  "author": "Jeremy Eng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamsies99/MidtermACC/issues"
+  },
+  "homepage": "https://github.com/Jamsies99/MidtermACC#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
